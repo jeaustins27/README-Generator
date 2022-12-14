@@ -20,6 +20,8 @@
   ## Usage
   To use this project, simply type "node index.js" into your terminal and it will launch a series of questions that will generate your README.
 
+  Link to example: [Tutorial](https://drive.google.com/file/d/1Vx8eRxbheFKgQgi_d-CSrWOX9mbqKRqT/view)
+
   ## Credits
   There are no collaborators.
 
