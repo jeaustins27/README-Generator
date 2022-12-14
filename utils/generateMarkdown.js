@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
     return `https://www.apache.org/licenses/LICENSE-2.0`;
   } else if (license == "GNU GPL v3") {
     return  `https://choosealicense.com/licenses/gpl-3.0/`;
-  } else if (license == "APACHE-2.0") {
+  } else if (license == "Mozilla") {
     return  `https://choosealicense.com/licenses/mpl-2.0/`;
   } else {
     return "";
