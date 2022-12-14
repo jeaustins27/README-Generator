@@ -6,17 +6,6 @@ function renderLicenseBadge(license) {
   } else {
     return '';
   }
-  // if (license === "MIT") {
-  //   return `![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)`;
-  // } else if (license === "APACHE") {
-  //   return `![License: APACHE](https://img.shields.io/badge/License-APACHE-blue.svg)`;
-  // } else if (license === "GNU GPL v3") {
-  //   return  `![License: GNU GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg`;
-  // } else if (license === "MOZILLA") {
-  //   return  `![License: MOZILLA](https://img.shields.io/badge/License-MOZILLA-blue.svg)`;
-  // } else {
-  //   return "";
-  // }
 }
 
 // TODO: Create a function that returns the license link
